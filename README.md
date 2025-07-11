@@ -29,11 +29,4 @@ This project simulates a hotel reservation system using **MySQL**, showcasing a 
 - MySQL
 - MySQL Workbench / VS Code
 
-## 🚀 How to Use
-1. Run `EricRiddle-HotelDB.sql`
-2. Run `EricRiddle-HotelData.sql`
-3. Explore `EricRiddle-HotelQueries.sql`
 
----
-
-For learning and portfolio use only.
