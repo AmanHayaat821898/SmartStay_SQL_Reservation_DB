@@ -55,8 +55,8 @@ WHERE HasJacuzzi = 1;
 
 
 -- QUERY 3
--- Write a query that returns all the rooms reserved for a specific guest, 
--- including the guest's name, the room(s) reserved, the starting date of the reservation, 
+-- Write a query that return all the rooms reserved for a specific guest, 
+-- including the guest's name, the room(s) resrved, the starting date of the reservation, 
 -- and how many people were included in the reservation. (Choose a guest's name from the existing data.)
 --------------------
 SELECT
@@ -81,7 +81,7 @@ WHERE Guest.GuestId = 2;
 
 -- QUERY 4
 -- Write a query that returns a list of rooms, reservation ID, and per-room cost for each reservation. 
--- The results should include all rooms, whether or not there is a reservation associated with the room.
+-- The results should include all rooms, whether or not there is a reservation asociated with the room.
 --------------------
 SELECT
 	Room.RoomNumber,
