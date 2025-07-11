@@ -21,9 +21,9 @@ This project simulates a hotel reservation system using **MySQL**, showcasing a 
 
 ## 🧠 Sample Query Use Cases
 - Reservations by month
-- Rooms with jacuzzi
+- Rooms with jacuzz
 - Guest reservation counts
-- Dynamic pricing based on room type and guests
+- Dynamic pricing based on room type and guest
 
 ## 🛠 Tech
 - MySQL
